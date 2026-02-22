@@ -8,3 +8,4 @@
 * Public archive of Radiation Monitor Software: rad:zR7hQ8gDHjj272V75KuJ3RrnwKa9
 * Public archive of Freenet, Entropy, & Samizdat Controller: rad:z3TCXPQ3asCfvcCUVWbTUzuQc7GWA
 * Public archive of Nootropic Video Experimenter code: rad:z3CeyUDZ7pTrpvcMjHzCnxoojpY83
+* Meshtastic MacOS Client: rad:zrfFc9Tod4HyWyvrqgniY98w8G3U

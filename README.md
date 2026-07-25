@@ -12,3 +12,4 @@
 * Meshtastic Client (Electron): [GitHub](https://github.com/Colorado-Mesh/mesh-client) | rad:z3N4VzaFHRV56fGRm7wBy2PdqMj7J
 * Cowx - Air Quality Monitor: [GitHub](https://github.com/rinchen/cowx) | rad:z3kiV3FudQgriZnvAPQ2K4zNJHgp6
 * Persecutio: [GitHub](https://github.com/rinchen/persecutio) | rad:zm8QPSxZ8K8z5YxJR2rLWfVZRTef
+* Joey's Nomad Network page: [GitHub](https://github.com/rinchen/nomad-page) | rad:z2bv2TYgqa3eacw7Xm42v5hXJGyb3

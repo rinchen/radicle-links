@@ -8,4 +8,7 @@
 * Public archive of Radiation Monitor Software: rad:zR7hQ8gDHjj272V75KuJ3RrnwKa9
 * Public archive of Freenet, Entropy, & Samizdat Controller: rad:z3TCXPQ3asCfvcCUVWbTUzuQc7GWA
 * Public archive of Nootropic Video Experimenter code: rad:z3CeyUDZ7pTrpvcMjHzCnxoojpY83
-* Meshtastic MacOS Client: rad:zrfFc9Tod4HyWyvrqgniY98w8G3U
+* (Deprecated - old Python version) Meshtastic MacOS Client: rad:zrfFc9Tod4HyWyvrqgniY98w8G3U
+* Meshtastic Client (Electron): rad:z3N4VzaFHRV56fGRm7wBy2PdqMj7J
+* Cowx - Air Quality Monitor: rad:z3kiV3FudQgriZnvAPQ2K4zNJHgp6
+* Persecutio: rad:zm8QPSxZ8K8z5YxJR2rLWfVZRTef

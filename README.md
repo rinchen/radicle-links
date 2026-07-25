@@ -20,7 +20,7 @@ A collection of projects with GitHub and Radicle links.
 | Linux Shell Scripts | Personal Linux shell scripts | [GitHub](https://github.com/rinchen/shell-scripts) | `rad:z3G5agyWAZxasotMXPw4JrxTFpSRu` |
 | Meshtastic Client (Electron) | Desktop client for Meshtastic mesh networks | [GitHub](https://github.com/Colorado-Mesh/mesh-client) | `rad:z3N4VzaFHRV56fGRm7wBy2PdqMj7J` |
 | Meshtastic MacOS Client | macOS client for Meshtastic [Deprecated] | [GitHub](https://github.com/Colorado-Mesh/mesh-client) | `rad:zrfFc9Tod4HyWyvrqgniY98w8G3U` |
-| Hermes Radicle Skill | Hermes integration for Radicle | [GitHub](https://github.com/rinchen/hermes-radicle) | — |
+| Hermes Radicle Skill | Hermes integration for Radicle | [GitHub](https://github.com/rinchen/hermes-radicle) | `rad:z3Y6EqELoo7SUYhk4WJdJS3zzJoVK` |
 
 ## Software Projects
 

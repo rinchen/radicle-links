@@ -22,6 +22,7 @@ A collection of projects with GitHub, Radicle, and Nostr (ngit) links.
 | Meshtastic MacOS Client | macOS client for Meshtastic **[Deprecated]** | [GitHub](https://github.com/Colorado-Mesh/mesh-client) | [rad](https://app.radicle.xyz/nodes/rosa.radicle.network/rad:zrfFc9Tod4HyWyvrqgniY98w8G3U) | [ngit](https://gitworkshop.dev/npub1wwaq5gyk7yljly3cwl3wleuk79nz63ukpp2a6lq5x4q9s9r4nrgqjk3dlv/relay.ngit.dev/mesh-client) |
 | Hermes Radicle Skill | Hermes Radicle skill, workflow, and local tools | [GitHub](https://github.com/rinchen/hermes-radicle) | [rad](https://app.radicle.xyz/nodes/rosa.radicle.network/rad:z3Y6EqELoo7SUYhk4WJdJS3zzJoVK) | [ngit](https://gitworkshop.dev/npub1wwaq5gyk7yljly3cwl3wleuk79nz63ukpp2a6lq5x4q9s9r4nrgqjk3dlv/relay.ngit.dev/hermes-radicle) |
 | ngit-enable-repo | Script to enable a GitHub repo for Nostr so when you push they both get updated | [GitHub](https://github.com/rinchen/ngit-enable-repo) | [rad](https://app.radicle.xyz/nodes/rosa.radicle.network/rad:z3qpv3e87bhG7N48RbpjqGWy4hRPc) | [ngit](https://gitworkshop.dev/npub1wwaq5gyk7yljly3cwl3wleuk79nz63ukpp2a6lq5x4q9s9r4nrgqjk3dlv/relay.ngit.dev/ngit-enable-repo) |
+| hermes-ngit | Hermes skill for decentralized Git over Nostr via ngit | [GitHub](https://github.com/rinchen/hermes-ngit) | [rad](https://app.radicle.xyz/nodes/rosa.radicle.network/rad:z2fGx8T85zCue2efEmSHL8NxKCvqd) | [ngit](https://gitworkshop.dev/npub1wwaq5gyk7yljly3cwl3wleuk79nz63ukpp2a6lq5x4q9s9r4nrgqjk3dlv/relay.ngit.dev/hermes-ngit) |
 
 ## Software Projects
 
